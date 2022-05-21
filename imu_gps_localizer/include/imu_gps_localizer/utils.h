@@ -1,6 +1,7 @@
 #pragma once
 
-#include <Eigen/Core>
+// #include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <LocalCartesian.hpp>
 
 namespace ImuGpsLocalization {
