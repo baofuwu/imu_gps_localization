@@ -1,6 +1,9 @@
 #pragma once
 
-#include <Eigen/Core>
+//#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
+
+
 
 #include "imu_gps_localizer/base_type.h"
 #include "imu_gps_localizer/gps_processor.h"
